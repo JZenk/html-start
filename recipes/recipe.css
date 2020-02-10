@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+body {
+  padding: 3rem;
+}
+h1,
+h2 {
+  font-family: serif;
+}
+main {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
